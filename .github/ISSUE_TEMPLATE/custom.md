@@ -1,6 +1,6 @@
 ---
 name: Engineering issue template
-about: Describe this issue template's purpose here.
+about: An Engineering task.
 title: ''
 labels: ''
 assignees: ''
